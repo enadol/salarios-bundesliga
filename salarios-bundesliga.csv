@@ -1,0 +1,534 @@
+,PLAYER,GROSS P/W,GROSS P/Y,CONTRACT EXP.,CLUB,AGE,POS BASIC,POS SPECIFIC,NATIONALITY
+0,Harry Kane,€ 480.769,€ 25.000.000,Jun 30 2027,Bayern Munich,30,F,CF,England
+1,Manuel Neuer,€ 403.846,€ 21.000.000,Jun 30 2025,Bayern Munich,38,K,GK,Germany
+2,Thomas Müller,€ 394.231,€ 20.500.000,Jun 30 2025,Bayern Munich,34,F,SS,Germany
+3,Leroy Sané,€ 384.615,€ 20.000.000,Jun 30 2025,Bayern Munich,28,F,RW,Germany
+4,Joshua Kimmich,€ 375.000,€ 19.500.000,Jun 30 2025,Bayern Munich,29,D,RB,Germany
+5,Serge Gnabry,€ 362.885,€ 18.870.000,Jun 30 2026,Bayern Munich,28,F,RW,Germany
+6,Leon Goretzka,€ 346.154,€ 18.000.000,Jun 30 2026,Bayern Munich,29,M,CM,Germany
+7,Kingsley Coman,€ 326.923,€ 17.000.000,Jun 30 2027,Bayern Munich,28,F,LW,France
+8,Matthijs de Ligt,€ 307.692,€ 16.000.000,Jun 30 2027,Bayern Munich,24,D,CB,Netherlands
+9,Michael Olise,€ 259.615,€ 13.500.000,Jun 30 2029,Bayern Munich,22,F,RW,France
+10,Min-jae Kim,€ 230.769,€ 12.000.000,Jun 30 2028,Bayern Munich,27,D,CB,South Korea
+11,Alphonso Davies,€ 216.346,€ 11.250.000,Jun 30 2025,Bayern Munich,23,D,LB,Canada
+12,Sébastien Haller,€ 211.538,€ 11.000.000,Jun 30 2026,Borussia Dortmund,30,F,CF,Cote d'Ivoire
+13,Niklas Süle,€ 192.308,€ 10.000.000,Jun 30 2026,Borussia Dortmund,28,D,CB,Germany
+14,Dayot Upamecano,€ 192.308,€ 10.000.000,Jun 30 2026,Bayern Munich,25,D,CB,France
+15,João Palhinha,€ 192.308,€ 10.000.000,Jun 30 2028,Bayern Munich,29,M,DM,Portugal
+16,Dani Olmo,€ 181.346,€ 9.430.000,Jun 30 2027,Leipzig,26,F,AM,Spain
+17,Serhou Guirassy,€ 181.346,€ 9.430.000,Jun 30 2028,Borussia Dortmund,28,F,CF,Guinea
+18,Konrad Laimer,€ 173.077,€ 9.000.000,Jun 30 2027,Bayern Munich,27,M,CM,Austria
+19,Gregor Kobel,€ 173.077,€ 9.000.000,Jun 30 2028,Borussia Dortmund,26,K,GK,Switzerland
+20,Emre Can,€ 153.846,€ 8.000.000,Jun 30 2026,Borussia Dortmund,30,M,DM,Germany
+21,Raphaël Guerreiro,€ 153.846,€ 8.000.000,Jun 30 2026,Bayern Munich,30,D,LB,Portugal
+22,Noussair Mazraoui,€ 153.846,€ 8.000.000,Jun 30 2026,Bayern Munich,26,D,RB,Morocco
+23,David Raum,€ 145.192,€ 7.550.000,Jun 30 2027,Leipzig,26,D,LB,Germany
+24,Benjamin Henrichs,€ 145.192,€ 7.550.000,Jun 30 2028,Leipzig,27,D,RB,Germany
+25,Matthias Ginter,€ 145.192,€ 7.550.000,Jun 30 2027,Freiburg,30,D,CB,Germany
+26,Marcel Sabitzer,€ 144.231,€ 7.500.000,Jun 30 2027,Borussia Dortmund,30,M,CM,Austria
+27,Julian Brandt,€ 134.615,€ 7.000.000,Jun 30 2026,Borussia Dortmund,28,F,AM,Germany
+28,Lukas Klostermann,€ 126.923,€ 6.600.000,Jun 30 2028,Leipzig,28,D,CB,Germany
+29,Josip Stanisic,€ 126.923,€ 6.600.000,Jun 30 2029,Bayern Munich,24,D,CB,Croatia
+30,Yussuf Poulsen,€ 126.923,€ 6.600.000,Jun 30 2026,Leipzig,30,F,CF,Denmark
+31,Willi Orbán,€ 126.923,€ 6.600.000,Jun 30 2027,Leipzig,31,D,CB,Hungary
+32,Bryan Zaragoza,€ 126.923,€ 6.600.000,Jun 30 2029,Bayern Munich,22,F,LW,Spain
+33,Patrik Schick,€ 115.385,€ 6.000.000,Jun 30 2027,Bayer Leverkusen,28,F,CF,Czech Republic
+34,Alejandro Grimaldo,€ 115.385,€ 6.000.000,Jun 30 2027,Bayer Leverkusen,28,D,LB,Spain
+35,Niclas Füllkrug,€ 115.385,€ 6.000.000,Jun 30 2026,Borussia Dortmund,31,F,CF,Germany
+36,Donyell Malen,€ 115.385,€ 6.000.000,Jun 30 2026,Borussia Dortmund,25,F,RW,Netherlands
+37,Felix Nmecha,€ 115.385,€ 6.000.000,Jun 30 2028,Borussia Dortmund,23,M,CM,Germany
+38,Benjamin Sesko,€ 108.846,€ 5.660.000,Jun 30 2029,Leipzig,21,F,CF,Slovenia
+39,Eljif Elmas,€ 108.846,€ 5.660.000,Jun 30 2028,Leipzig,24,F,AM,North Macedonia
+40,Loïs Openda,€ 108.846,€ 5.660.000,Jun 30 2028,Leipzig,24,F,CF,Belgium
+41,Péter Gulácsi,€ 107.692,€ 5.600.000,Jun 30 2026,Leipzig,34,K,GK,Hungary
+42,Maximilian Arnold,€ 105.769,€ 5.500.000,Jun 30 2026,Wolfsburg,30,M,CM,Germany
+43,Mathys Tel,€ 96.154,€ 5.000.000,Jun 30 2029,Bayern Munich,19,F,LW,France
+44,Karim Adeyemi,€ 96.154,€ 5.000.000,Jun 30 2027,Borussia Dortmund,22,F,LW,Germany
+45,Exequiel Palacios,€ 96.154,€ 5.000.000,Jun 30 2028,Bayer Leverkusen,25,M,CM,Argentina
+46,André Silva,€ 96.154,€ 5.000.000,Jun 30 2026,Leipzig,28,F,CF,Portugal
+47,Eric Dier,€ 96.154,€ 5.000.000,Jun 30 2025,Bayern Munich,30,D,CB,England
+48,Jamal Musiala,€ 96.154,€ 5.000.000,Jun 30 2026,Bayern Munich,21,F,AM,Germany
+49,Edmond Tapsoba,€ 96.154,€ 5.000.000,Jun 30 2028,Bayer Leverkusen,25,D,CB,Burkina Faso
+50,Nico Schlotterbeck,€ 90.769,€ 4.720.000,Jun 30 2027,Borussia Dortmund,24,D,CB,Germany
+51,Alassane Plea,€ 90.769,€ 4.720.000,Jun 30 2025,Monchengladbach,31,F,CF,France
+52,Lovro Majer,€ 90.769,€ 4.720.000,Jun 30 2028,Wolfsburg,26,F,AM,Croatia
+53,Ramy Bensebaini,€ 86.538,€ 4.500.000,Jun 30 2027,Borussia Dortmund,29,D,LB,Algeria
+54,Florian Wirtz,€ 86.538,€ 4.500.000,Jun 30 2027,Bayer Leverkusen,21,F,AM,Germany
+55,Granit Xhaka,€ 79.808,€ 4.150.000,Jun 30 2028,Bayer Leverkusen,31,M,DM,Switzerland
+56,Andrej Kramaric,€ 76.923,€ 4.000.000,Jun 30 2025,Hoffenheim,33,F,CF,Croatia
+57,Florian Neuhaus,€ 76.923,€ 4.000.000,Jun 30 2027,Monchengladbach,27,M,CM,Germany
+58,Xaver Schlager,€ 76.923,€ 4.000.000,Jun 30 2026,Leipzig,26,M,CM,Austria
+59,Jonas Hofmann,€ 76.923,€ 4.000.000,Jun 30 2027,Bayer Leverkusen,31,F,AM,Germany
+60,Jeremie Frimpong,€ 76.923,€ 4.000.000,Jun 30 2028,Bayer Leverkusen,23,M,RM,Netherlands
+61,Julian Weigl,€ 76.154,€ 3.960.000,Jun 30 2028,Monchengladbach,28,M,DM,Germany
+62,Diadié Samassékou,€ 75.000,€ 3.900.000,Jun 30 2025,Hoffenheim,28,M,DM,Mali
+63,Amadou Haidara,€ 73.077,€ 3.800.000,Jun 30 2026,Leipzig,26,M,CM,Mali
+64,Salih Özcan,€ 72.692,€ 3.780.000,Jun 30 2026,Borussia Dortmund,26,M,DM,Turkey
+65,Maxence Lacroix,€ 69.615,€ 3.620.000,Jun 30 2025,Wolfsburg,24,D,CB,France
+66,Yannick Gerhardt,€ 69.231,€ 3.600.000,Jun 30 2025,Wolfsburg,30,M,CM,Germany
+67,Mario Götze,€ 67.308,€ 3.500.000,Jun 30 2026,Eintracht Frankfurt,32,F,AM,Germany
+68,Oliver Baumann,€ 67.308,€ 3.500.000,Jun 30 2026,Hoffenheim,34,K,GK,Germany
+69,Mergim Berisha,€ 67.308,€ 3.500.000,Jun 30 2027,Hoffenheim,26,F,CF,Germany
+70,Hugo Ekitiké,€ 67.308,€ 3.500.000,Jun 30 2029,Eintracht Frankfurt,22,F,CF,France
+71,Alexander Nübel,€ 67.308,€ 3.500.000,Jun 30 2026,Stuttgart,27,K,GK,Germany
+72,Nico Elvedi,€ 67.308,€ 3.500.000,Jun 30 2027,Monchengladbach,27,D,CB,Switzerland
+73,Christoph Kramer,€ 67.308,€ 3.500.000,Jun 30 2025,Monchengladbach,33,M,DM,Germany
+74,Kevin Trapp,€ 67.308,€ 3.500.000,Jun 30 2026,Eintracht Frankfurt,33,K,GK,Germany
+75,Sardar Azmoun,€ 61.538,€ 3.200.000,Jun 30 2027,Bayer Leverkusen,29,F,CF,Iran
+76,Ozan Kabak,€ 60.577,€ 3.150.000,Jun 30 2026,Hoffenheim,24,D,CB,Turkey
+77,Sacha Boey,€ 57.692,€ 3.000.000,Jun 30 2028,Bayern Munich,23,D,RB,France
+78,Castello Lukeba,€ 57.692,€ 3.000.000,Jun 30 2028,Leipzig,21,D,CB,France
+79,Jonas Omlin,€ 57.692,€ 3.000.000,Jun 30 2027,Monchengladbach,30,K,GK,Switzerland
+80,Youssoufa Moukoko,€ 57.692,€ 3.000.000,Jun 30 2026,Borussia Dortmund,19,F,CF,Germany
+81,Jamie Bynoe-Gittens,€ 57.692,€ 3.000.000,Jun 30 2028,Borussia Dortmund,19,F,LW,England
+82,Dan-Axel Zagadou,€ 54.423,€ 2.830.000,Jun 30 2026,Stuttgart,25,D,CB,France
+83,Mattias Svanberg,€ 54.423,€ 2.830.000,Jun 30 2027,Wolfsburg,25,M,CM,Sweden
+84,Aster Vranckx,€ 54.423,€ 2.830.000,Jun 30 2025,Wolfsburg,21,M,CM,Belgium
+85,Robin Gosens,€ 54.423,€ 2.830.000,Jun 30 2028,Union Berlin,29,M,LM,Germany
+86,Waldemar Anton,€ 54.423,€ 2.830.000,Jun 30 2027,Stuttgart,27,D,CB,Germany
+87,Jonathan Tah,€ 54.423,€ 2.830.000,Jun 30 2025,Bayer Leverkusen,28,D,CB,Germany
+88,Sebastiaan Bornauw,€ 54.231,€ 2.820.000,Jun 30 2026,Wolfsburg,25,D,CB,Belgium
+89,Ellyes Skhiri,€ 53.846,€ 2.800.000,Jun 30 2027,Eintracht Frankfurt,29,M,DM,Tunisia
+90,Ihlas Bebou,€ 51.923,€ 2.700.000,Jun 30 2026,Hoffenheim,30,F,CF,Togo
+91,Lucas Tousart,€ 50.000,€ 2.600.000,Jun 30 2025,Union Berlin,27,M,DM,France
+92,Lukas Hradecky,€ 50.000,€ 2.600.000,Jun 30 2026,Bayer Leverkusen,34,K,GK,Finland
+93,Naby Keïta,€ 48.077,€ 2.500.000,Jun 30 2026,Werder Bremen,29,M,CM,Guinea
+94,Giovanni Reyna,€ 48.077,€ 2.500.000,Jun 30 2026,Borussia Dortmund,21,F,AM,United States
+95,Leonardo Bittencourt,€ 48.077,€ 2.500.000,Jun 30 2025,Werder Bremen,30,M,CM,Germany
+96,Christoph Baumgartner,€ 48.077,€ 2.500.000,Jun 30 2028,Leipzig,24,F,AM,Austria
+97,Chris Führich,€ 48.077,€ 2.500.000,Jun 30 2028,Stuttgart,26,F,LW,Germany
+98,Kevin Kampl,€ 48.077,€ 2.500.000,Jun 30 2026,Leipzig,33,M,CM,Slovenia
+99,Stefan Lainer,€ 48.077,€ 2.500.000,Jun 30 2026,Monchengladbach,31,D,RB,Austria
+100,Florian Grillitsch,€ 48.077,€ 2.500.000,Jun 30 2026,Hoffenheim,28,M,DM,Austria
+101,Robin Koch,€ 47.308,€ 2.460.000,Jun 30 2027,Eintracht Frankfurt,27,D,CB,Germany
+102,Kevin Volland,€ 46.154,€ 2.400.000,Jun 30 2026,Union Berlin,31,F,CF,Germany
+103,Luca Netz,€ 46.154,€ 2.400.000,Jun 30 2026,Monchengladbach,21,D,LB,Germany
+104,Marvin Ducksch,€ 43.462,€ 2.260.000,Jun 30 2026,Werder Bremen,30,F,CF,Germany
+105,Nicolas Seiwald,€ 42.308,€ 2.200.000,Jun 30 2028,Leipzig,23,M,CM,Austria
+106,Dennis Geiger,€ 41.538,€ 2.160.000,Jun 30 2027,Hoffenheim,26,M,CM,Germany
+107,Ludovic Ajorque,€ 41.538,€ 2.160.000,Jun 30 2026,Mainz,30,F,CF,France
+108,Maximilian Philipp,€ 40.385,€ 2.100.000,Jun 30 2025,Freiburg,30,F,SS,Germany
+109,Marius Bülter,€ 40.385,€ 2.100.000,Jun 30 2026,Hoffenheim,31,F,LW,Germany
+110,Piero Hincapié,€ 40.000,€ 2.080.000,Jun 30 2027,Bayer Leverkusen,22,D,CB,Ecuador
+111,Jonas Wind,€ 39.231,€ 2.040.000,Jun 30 2026,Wolfsburg,25,F,CF,Denmark
+112,Julian Ryerson,€ 39.231,€ 2.040.000,Jun 30 2026,Borussia Dortmund,26,D,RB,Norway
+113,Pavel Kaderabek,€ 38.462,€ 2.000.000,Jun 30 2025,Hoffenheim,32,D,RB,Czech Republic
+114,Victor Boniface,€ 38.462,€ 2.000.000,Jun 30 2028,Bayer Leverkusen,23,F,CF,Nigeria
+115,Lukas Nmecha,€ 38.462,€ 2.000.000,Jun 30 2025,Wolfsburg,25,F,CF,Germany
+116,Patrick Wimmer,€ 38.462,€ 2.000.000,Jun 30 2027,Wolfsburg,23,F,RW,Austria
+117,Attila Szalai,€ 38.462,€ 2.000.000,Jun 30 2027,Hoffenheim,26,D,CB,Hungary
+118,Marvin Friedrich,€ 38.462,€ 2.000.000,Jun 30 2026,Monchengladbach,28,D,CB,Germany
+119,Sven Ulreich,€ 38.462,€ 2.000.000,Jun 30 2025,Bayern Munich,35,K,GK,Germany
+120,Mohamed Simakan,€ 38.462,€ 2.000.000,Jun 30 2027,Leipzig,24,D,CB,France
+121,Philipp Max,€ 38.269,€ 1.990.000,Jun 30 2026,Eintracht Frankfurt,30,D,LB,Germany
+122,Mitchell Weiser,€ 38.077,€ 1.980.000,Jun 30 2025,Werder Bremen,30,D,RB,Germany
+123,Edimilson Fernandes,€ 38.077,€ 1.980.000,Jun 30 2026,Mainz,28,D,CB,Switzerland
+124,David Jurásek,€ 36.923,€ 1.920.000,Jun 30 2025,Hoffenheim,23,D,LB,Czech Republic
+125,Kouadio Koné,€ 36.923,€ 1.920.000,Jun 30 2026,Monchengladbach,23,M,CM,France
+126,Anton Stach,€ 36.538,€ 1.900.000,Jun 30 2027,Hoffenheim,25,M,CM,Germany
+127,Joakim Maehle,€ 36.538,€ 1.900.000,Jun 30 2027,Wolfsburg,27,D,RB,Denmark
+128,Jonathan Burkardt,€ 36.346,€ 1.890.000,Jun 30 2027,Mainz,23,F,CF,Germany
+129,Enzo Millot,€ 36.346,€ 1.890.000,Jun 30 2028,Stuttgart,21,F,AM,France
+130,Ivan Ordets,€ 36.346,€ 1.890.000,Jun 30 2026,Bochum,31,D,CB,Ukraine
+131,Jae-sung Lee,€ 36.346,€ 1.890.000,Jun 30 2026,Mainz,31,F,AM,South Korea
+132,Silvan Widmer,€ 36.346,€ 1.890.000,Jun 30 2026,Mainz,31,D,RB,Switzerland
+133,Ko Itakura,€ 36.346,€ 1.890.000,Jun 30 2026,Monchengladbach,27,D,CB,Japan
+134,Paul Wanner,€ 36.346,€ 1.890.000,Jun 30 2025,Heidenheim,18,F,AM,Germany
+135,Adam Hlozek,€ 36.154,€ 1.880.000,Jun 30 2027,Bayer Leverkusen,21,F,SS,Czech Republic
+136,Dominik Kohr,€ 34.615,€ 1.800.000,Jun 30 2026,Mainz,30,M,DM,Germany
+137,Jordan Siebatcheu,€ 34.615,€ 1.800.000,Jun 30 2026,Union Berlin,28,F,CF,United States
+138,Ridle Baku,€ 34.615,€ 1.800.000,Jun 30 2025,Wolfsburg,26,D,RB,Germany
+139,Aleksandar Pavlovic,€ 34.615,€ 1.800.000,Jun 30 2029,Bayern Munich,20,M,DM,Germany
+140,Nathan Tella,€ 34.615,€ 1.800.000,Jun 30 2028,Bayer Leverkusen,24,F,RW,Nigeria
+141,Stefan Bell,€ 34.615,€ 1.800.000,Jun 30 2025,Mainz,32,D,CB,Germany
+142,El Chadaille Bitshiabu,€ 34.615,€ 1.800.000,Jun 30 2028,Leipzig,19,D,CB,France
+143,Jacob Bruun Larsen,€ 34.615,€ 1.800.000,Jun 30 2025,Hoffenheim,25,F,LW,Denmark
+144,Karim Onisiwo,€ 32.692,€ 1.700.000,Jun 30 2026,Mainz,32,F,CF,Austria
+145,Rogério,€ 32.692,€ 1.700.000,Jun 30 2027,Wolfsburg,26,D,LB,Brazil
+146,Nadiem Amiri,€ 32.692,€ 1.700.000,Jun 30 2028,Mainz,27,M,CM,Germany
+147,Anthony Caci,€ 32.308,€ 1.680.000,Jun 30 2026,Mainz,27,D,LB,France
+148,Odilon Kossounou,€ 31.346,€ 1.630.000,Jun 30 2026,Bayer Leverkusen,23,D,CB,Cote d'Ivoire
+149,Ilaix Moriba,€ 31.154,€ 1.620.000,Jun 30 2026,Leipzig,21,M,CM,Guinea
+150,Omar Marmoush,€ 30.769,€ 1.600.000,Jun 30 2027,Eintracht Frankfurt,25,F,CF,Egypt
+151,Vaclav Cerny,€ 30.769,€ 1.600.000,Jun 30 2027,Wolfsburg,26,F,RW,Czech Republic
+152,Dawid Kownacki,€ 30.769,€ 1.600.000,Jun 30 2026,Werder Bremen,27,F,CF,Poland
+153,Josip Juranovic,€ 30.769,€ 1.600.000,Jun 30 2027,Union Berlin,28,D,RB,Croatia
+154,Robert Andrich,€ 30.769,€ 1.600.000,Jun 30 2026,Bayer Leverkusen,29,M,DM,Germany
+155,Alexander Nübel,€ 28.846,€ 1.500.000,Jun 30 2029,Bayern Munich,27,K,GK,Germany
+156,Kevin Akpoguma,€ 28.846,€ 1.500.000,Jun 30 2026,Hoffenheim,29,D,CB,Nigeria
+157,Felix Uduokhai,€ 28.846,€ 1.500.000,Jun 30 2025,Augsburg,26,D,CB,Germany
+158,Tuta,€ 28.846,€ 1.500.000,Jun 30 2026,Eintracht Frankfurt,24,D,CB,Brazil
+159,Arijon Ibrahimovic,€ 28.846,€ 1.500.000,Jun 30 2027,Bayern Munich,18,F,LW,Germany
+160,Tiago Tomás,€ 28.846,€ 1.500.000,Jun 30 2027,Wolfsburg,22,F,CF,Portugal
+161,Daniel Peretz,€ 28.846,€ 1.500.000,Jun 30 2028,Bayern Munich,23,K,GK,Israel
+162,Robin Zentner,€ 28.846,€ 1.500.000,Jun 30 2025,Mainz,29,K,GK,Germany
+163,Jérôme Roussillon,€ 28.846,€ 1.500.000,Jun 30 2025,Union Berlin,31,D,LB,Guadeloupe
+164,Niklas Stark,€ 27.692,€ 1.440.000,Jun 30 2026,Werder Bremen,29,D,CB,Germany
+165,Moritz Jenz,€ 26.923,€ 1.400.000,Jun 30 2027,Wolfsburg,25,D,CB,Germany
+166,Tom Krauß,€ 26.923,€ 1.400.000,Jun 30 2027,Mainz,23,M,CM,Germany
+167,Elvis Rexhbecaj,€ 26.538,€ 1.380.000,Jun 30 2026,Augsburg,26,M,CM,Germany
+168,Bartol Franjic,€ 25.962,€ 1.350.000,Jun 30 2027,Wolfsburg,24,M,DM,Croatia
+169,Angelo Stiller,€ 25.000,€ 1.300.000,Jun 30 2027,Stuttgart,23,M,DM,Germany
+170,Kevin Behrens,€ 25.000,€ 1.300.000,Jun 30 2025,Wolfsburg,33,F,CF,Germany
+171,Franck Honorat,€ 24.038,€ 1.250.000,Jun 30 2028,Monchengladbach,27,F,RW,France
+172,Jeffrey Gouweleeuw,€ 23.654,€ 1.230.000,Jun 30 2025,Augsburg,32,D,CB,Netherlands
+173,Arne Maier,€ 23.654,€ 1.230.000,Jun 30 2026,Augsburg,25,M,CM,Germany
+174,Stanley Nsoki,€ 23.077,€ 1.200.000,Jun 30 2027,Hoffenheim,25,D,CB,France
+175,Timothy Chandler,€ 23.077,€ 1.200.000,Jun 30 2025,Eintracht Frankfurt,34,D,RB,United States
+176,Frederik Rönnow,€ 23.077,€ 1.200.000,Jun 30 2025,Union Berlin,31,K,GK,Denmark
+177,Pavao Pervan,€ 23.077,€ 1.200.000,Jun 30 2025,Wolfsburg,36,K,GK,Austria
+178,András Schäfer,€ 23.077,€ 1.200.000,Jun 30 2025,Union Berlin,25,M,CM,Hungary
+179,Milos Veljkovic,€ 23.077,€ 1.200.000,Jun 30 2025,Werder Bremen,28,D,CB,Serbia
+180,Andreas Hanche-Olsen,€ 23.077,€ 1.200.000,Jun 30 2026,Mainz,27,D,CB,Norway
+181,Erhan Masovic,€ 23.077,€ 1.200.000,Jun 30 2026,Bochum,25,D,CB,Serbia
+182,Bernardo,€ 23.077,€ 1.200.000,Jun 30 2026,Bochum,29,D,CB,Brazil
+183,Joe Scally,€ 23.077,€ 1.200.000,Jun 30 2027,Monchengladbach,21,D,RB,United States
+184,Jakub Kaminski,€ 22.115,€ 1.150.000,Jun 30 2027,Wolfsburg,22,F,LW,Poland
+185,Anthony Jung,€ 22.115,€ 1.150.000,Jun 30 2025,Werder Bremen,32,D,CB,Germany
+186,Felix Agu,€ 22.115,€ 1.150.000,Jun 30 2027,Werder Bremen,24,D,RB,Germany
+187,Justin Njinmah,€ 22.115,€ 1.150.000,Jun 30 2027,Werder Bremen,23,F,RW,Germany
+188,Nicolas Cozza,€ 22.115,€ 1.150.000,Jun 30 2027,Wolfsburg,25,D,LB,France
+189,Michael Gregoritsch,€ 21.923,€ 1.140.000,Jun 30 2025,Freiburg,30,F,CF,Austria
+190,Silas Wamangituka,€ 21.923,€ 1.140.000,Jun 30 2026,Stuttgart,25,F,RW,Democratic Republic of the Congo
+191,Amine Adli,€ 21.923,€ 1.140.000,Jun 30 2026,Bayer Leverkusen,24,F,LW,Morocco
+192,Ermedin Demirovic,€ 21.923,€ 1.140.000,Jun 30 2026,Augsburg,26,F,CF,Bosnia-Herzegovina
+193,Alexander Meyer,€ 21.923,€ 1.140.000,Jun 30 2026,Borussia Dortmund,33,K,GK,Germany
+194,Fabian Bredlow,€ 21.731,€ 1.130.000,Jun 30 2026,Stuttgart,29,K,GK,Germany
+195,Kevin Vogt,€ 21.154,€ 1.100.000,Jun 30 2025,Union Berlin,32,D,CB,Germany
+196,Kevin Müller,€ 21.154,€ 1.100.000,Jun 30 2025,Heidenheim,33,K,GK,Germany
+197,Fabian Rieder,€ 21.154,€ 1.100.000,Jun 30 2025,Stuttgart,22,F,AM,Switzerland
+198,Senne Lynen,€ 21.154,€ 1.100.000,Jun 30 2025,Werder Bremen,25,M,DM,Belgium
+199,Janik Haberer,€ 20.769,€ 1.080.000,Jun 30 2025,Union Berlin,30,M,CM,Germany
+200,Moritz Nicolas,€ 20.000,€ 1.040.000,Jun 30 2029,Monchengladbach,26,K,GK,Germany
+201,Nathan N'Goumou,€ 20.000,€ 1.040.000,Jun 30 2027,Monchengladbach,24,F,RW,France
+202,Christian Günter,€ 19.615,€ 1.020.000,Jun 30 2025,Freiburg,31,D,LB,Germany
+203,Oliver Burke,€ 19.615,€ 1.020.000,Jun 30 2025,Werder Bremen,27,F,RW,Scotland
+204,Jamie Leweling,€ 19.615,€ 1.020.000,Jun 30 2028,Stuttgart,23,F,RW,Germany
+205,Fiete Arp,€ 19.231,€ 1.000.000,Jun 30 2026,Holstein Kiel,24,F,CF,Germany
+206,Cédric Zesiger,€ 19.231,€ 1.000.000,Jun 30 2027,Wolfsburg,26,D,CB,Switzerland
+207,Maximilian Beier,€ 19.231,€ 1.000.000,Jun 30 2027,Hoffenheim,21,F,CF,Germany
+208,Maximilian Mittelstädt,€ 19.231,€ 1.000.000,Jun 30 2026,Stuttgart,27,D,LB,Germany
+209,Nikola Vasilj,€ 19.231,€ 1.000.000,Jun 30 2025,St Pauli,28,K,GK,Bosnia-Herzegovina
+210,Felix Passlack,€ 19.231,€ 1.000.000,Jun 30 2025,Bochum,26,D,RB,Germany
+211,Eric Smith,€ 18.462,€ 960.000,Jun 30 2025,St Pauli,27,D,CB,Sweden
+212,Maxim Leitsch,€ 18.462,€ 960.000,Jun 30 2026,Mainz,26,D,CB,Germany
+213,Maximilian Eggestein,€ 18.462,€ 960.000,Jun 30 2025,Freiburg,27,M,CM,Germany
+214,Danny da Costa,€ 18.462,€ 960.000,Jun 30 2025,Mainz,30,D,RB,Germany
+215,Niklas Dorsch,€ 18.269,€ 950.000,Jun 30 2026,Augsburg,26,M,DM,Germany
+216,Vincenzo Grifo,€ 18.269,€ 950.000,Jun 30 2025,Freiburg,31,F,LW,Italy
+217,Anthony Losilla,€ 18.077,€ 940.000,Jun 30 2025,Bochum,38,M,DM,France
+218,Pascal Stenzel,€ 18.077,€ 940.000,Jun 30 2026,Stuttgart,28,D,RB,Germany
+219,Josha Vagnoman,€ 18.077,€ 940.000,Jun 30 2026,Stuttgart,23,D,RB,Germany
+220,Alexander Schwolow,€ 17.308,€ 900.000,Jun 30 2025,Union Berlin,32,K,GK,Germany
+221,Nicolas Höfler,€ 17.308,€ 900.000,Jun 30 2025,Freiburg,34,M,DM,Germany
+222,Phillipp Mwene,€ 17.308,€ 900.000,Jun 30 2026,Mainz,30,D,LB,Austria
+223,Yorbe Vertessen,€ 17.308,€ 900.000,Jun 30 2028,Union Berlin,23,F,CF,Belgium
+224,Kevin Paredes,€ 17.308,€ 900.000,Jun 30 2026,Wolfsburg,21,M,LM,United States
+225,Christopher Trimmel,€ 17.308,€ 900.000,Jun 30 2025,Union Berlin,37,D,RB,Austria
+226,Kilian Fischer,€ 16.731,€ 870.000,Jun 30 2027,Wolfsburg,23,D,RB,Germany
+227,Rani Khedira,€ 16.346,€ 850.000,Jun 30 2025,Union Berlin,30,M,DM,Germany
+228,Skelly Alvero,€ 16.346,€ 850.000,Jun 30 2028,Werder Bremen,22,M,CM,France
+229,Rubén Vargas,€ 16.346,€ 850.000,Jun 30 2025,Augsburg,25,F,LW,Switzerland
+230,Gerrit Holtmann,€ 16.346,€ 850.000,Jun 30 2025,Bochum,29,F,LW,Philippines
+231,Aïssa Laïdouni,€ 16.154,€ 840.000,Jun 30 2027,Union Berlin,27,M,CM,Tunisia
+232,Lennart Grill,€ 16.154,€ 840.000,Jun 30 2025,Union Berlin,25,K,GK,Germany
+233,Manuel Riemann,€ 16.154,€ 840.000,Jun 30 2025,Bochum,35,K,GK,Germany
+234,Hauke Wahl,€ 16.154,€ 840.000,Jun 30 2025,St Pauli,30,D,CB,Germany
+235,Grischa Prömel,€ 16.154,€ 840.000,Jun 30 2026,Hoffenheim,29,M,CM,Germany
+236,Ritsu Doan,€ 16.154,€ 840.000,Jun 30 2025,Freiburg,26,F,RW,Japan
+237,Johannes Eggestein,€ 16.154,€ 840.000,Jun 30 2025,St Pauli,26,F,CF,Germany
+238,Finn Dahmen,€ 16.154,€ 840.000,Jun 30 2026,Augsburg,26,K,GK,Germany
+239,Aymen Barkok,€ 16.154,€ 840.000,Jun 30 2025,Mainz,26,F,AM,Morocco
+240,Tomas Cvancara,€ 15.385,€ 800.000,Jun 30 2028,Monchengladbach,23,F,CF,Czech Republic
+241,Marco Richter,€ 15.385,€ 800.000,Jun 30 2027,Mainz,26,F,AM,Germany
+242,Farès Chaïbi,€ 15.385,€ 800.000,Jun 30 2028,Eintracht Frankfurt,21,F,AM,Algeria
+243,Maximilian Wittek,€ 15.385,€ 800.000,Jun 30 2026,Bochum,28,D,LB,Germany
+244,Mads Pedersen,€ 15.385,€ 800.000,Jun 30 2027,Augsburg,27,D,LB,Denmark
+245,Woo-yeong Jeong,€ 15.385,€ 800.000,Jun 30 2026,Stuttgart,24,F,AM,South Korea
+246,Reece Oxford,€ 15.385,€ 800.000,Jun 30 2025,Augsburg,25,D,CB,England
+247,Willian Pacho,€ 15.385,€ 800.000,Jun 30 2028,Eintracht Frankfurt,22,D,CB,Ecuador
+248,Hugo Novoa,€ 15.385,€ 800.000,Jun 30 2025,Leipzig,21,D,RB,Spain
+249,Michael Zetterer,€ 15.000,€ 780.000,Jun 30 2027,Werder Bremen,28,K,GK,Germany
+250,David Nemeth,€ 15.000,€ 780.000,Jun 30 2026,St Pauli,23,D,CB,Austria
+251,Oladapo Afolayan,€ 15.000,€ 780.000,Jun 30 2025,St Pauli,26,F,RW,England
+252,Oscar Fraulo,€ 15.000,€ 780.000,Jun 30 2026,Monchengladbach,20,M,CM,Denmark
+253,Philipp Hofmann,€ 15.000,€ 780.000,Jun 30 2026,Bochum,31,F,CF,Germany
+254,Marvin Pieringer,€ 15.000,€ 780.000,Jun 30 2027,Heidenheim,24,F,CF,Germany
+255,Dion Beljo,€ 14.615,€ 760.000,Jun 30 2027,Augsburg,22,F,CF,Croatia
+256,Matej Kovar,€ 14.423,€ 750.000,Jun 30 2027,Bayer Leverkusen,24,K,GK,Czech Republic
+257,Hugo Larsson,€ 14.423,€ 750.000,Jun 30 2028,Eintracht Frankfurt,20,M,CM,Sweden
+258,Steven Skrzybski,€ 14.423,€ 750.000,Jun 30 2026,Holstein Kiel,31,F,AM,Germany
+259,Olivier Deman,€ 14.423,€ 750.000,Jun 30 2028,Werder Bremen,24,M,LM,Belgium
+260,Patrick Mainka,€ 14.423,€ 750.000,Jun 30 2027,Heidenheim,29,D,CB,Germany
+261,Phillip Tietz,€ 14.423,€ 750.000,Jun 30 2027,Augsburg,26,F,CF,Germany
+262,Marnon Busch,€ 14.423,€ 750.000,Jun 30 2027,Heidenheim,29,D,RB,Germany
+263,Rocco Reitz,€ 13.846,€ 720.000,Jun 30 2028,Monchengladbach,22,M,CM,Germany
+264,Roland Sallai,€ 13.846,€ 720.000,Jun 30 2025,Freiburg,27,F,RW,Hungary
+265,Marco Friedl,€ 13.846,€ 720.000,Jun 30 2026,Werder Bremen,26,D,CB,Austria
+266,Denis Thomalla,€ 13.846,€ 720.000,Jun 30 2025,Heidenheim,31,F,AM,Germany
+267,Éric Ebimbe,€ 13.846,€ 720.000,Jun 30 2027,Eintracht Frankfurt,23,M,CM,France
+268,Arthur,€ 13.846,€ 720.000,Jun 30 2028,Bayer Leverkusen,21,D,RB,Brazil
+269,Matus Bero,€ 13.462,€ 700.000,Jun 30 2026,Bochum,28,M,CM,Slovakia
+270,Niels Nkounkou,€ 13.462,€ 700.000,Jun 30 2028,Eintracht Frankfurt,23,D,LB,France
+271,Junior Adamu,€ 13.462,€ 700.000,Jun 30 2025,Freiburg,23,F,CF,Austria
+272,Masaya Okugawa,€ 13.462,€ 700.000,Jun 30 2026,Augsburg,28,F,LW,Japan
+273,Jean-Mattéo Bahoya,€ 13.462,€ 700.000,Jun 30 2029,Eintracht Frankfurt,19,F,LW,France
+274,Sven Michel,€ 13.269,€ 690.000,Jun 30 2025,Augsburg,33,F,CF,Germany
+275,Philipp Lienhart,€ 13.077,€ 680.000,Jun 30 2025,Freiburg,27,D,CB,Austria
+276,Simon Zoller,€ 12.692,€ 660.000,Jun 30 2025,St Pauli,33,F,CF,Germany
+277,Benedikt Pichler,€ 12.500,€ 650.000,Jun 30 2027,Holstein Kiel,26,F,CF,Austria
+278,Ömer Beyaz,€ 12.500,€ 650.000,Jun 30 2025,Stuttgart,20,F,AM,Turkey
+279,Aurèle Amenda,€ 12.308,€ 640.000,Jun 30 2029,Eintracht Frankfurt,20,D,CB,Switzerland
+280,Nikolas Nartey,€ 11.923,€ 620.000,Jun 30 2025,Stuttgart,24,M,CM,Denmark
+281,Jens Stage,€ 11.538,€ 600.000,Jun 30 2026,Werder Bremen,27,M,CM,Denmark
+282,Frans Krätzig,€ 11.538,€ 600.000,Jun 30 2025,Stuttgart,21,D,LB,Germany
+283,Thomas Kastanaras,€ 11.538,€ 600.000,Jun 30 2026,Stuttgart,21,F,CF,Germany
+284,Chris Bedia,€ 11.538,€ 600.000,Jun 30 2027,Union Berlin,28,F,CF,Cote d'Ivoire
+285,Danilho Doekhi,€ 11.538,€ 600.000,Jun 30 2025,Union Berlin,26,D,CB,Netherlands
+286,Amos Pieper,€ 11.538,€ 600.000,Jun 30 2026,Werder Bremen,26,D,CB,Germany
+287,Luca Pfeiffer,€ 11.538,€ 600.000,Jun 30 2026,Stuttgart,27,F,CF,Germany
+288,Patric Pfeiffer,€ 11.538,€ 600.000,Jun 30 2027,Augsburg,24,D,CB,Ghana
+289,Maurides,€ 11.538,€ 600.000,Jun 30 2026,St Pauli,30,F,CF,Brazil
+290,Robin Hack,€ 11.538,€ 600.000,Jun 30 2027,Monchengladbach,25,F,LW,Germany
+291,Cristian Gamboa,€ 11.538,€ 600.000,Jun 30 2025,Bochum,34,D,RB,Costa Rica
+292,Timo Becker,€ 11.346,€ 590.000,Jun 30 2025,Holstein Kiel,27,D,CB,Germany
+293,Tymoteusz Puchacz,€ 11.154,€ 580.000,Jun 30 2025,Union Berlin,25,D,LB,Poland
+294,Umut Tohumcu,€ 10.962,€ 570.000,Jun 30 2028,Hoffenheim,19,M,CM,Germany
+295,Raphael Framberger,€ 10.962,€ 570.000,Jun 30 2025,Augsburg,28,D,RB,Germany
+296,Niklas Lomb,€ 10.962,€ 570.000,Jun 30 2027,Bayer Leverkusen,30,K,GK,Germany
+297,Fredrik Jensen,€ 10.769,€ 560.000,Jun 30 2025,Augsburg,26,F,AM,Finland
+298,Nathanaël Mbuku,€ 10.769,€ 560.000,Jun 30 2027,Augsburg,22,F,LW,France
+299,Irvin Cardona,€ 10.769,€ 560.000,Jun 30 2027,Augsburg,26,F,CF,France
+300,Marvin Schulz,€ 10.577,€ 550.000,Jun 30 2025,Holstein Kiel,29,M,DM,Germany
+301,Florent Muslija,€ 10.577,€ 550.000,Jun 30 2028,Freiburg,25,F,LW,Kosovo
+302,Julian Justvan,€ 10.577,€ 550.000,Jun 30 2027,Hoffenheim,26,F,AM,Germany
+303,Ansgar Knauff,€ 10.385,€ 540.000,Jun 30 2028,Eintracht Frankfurt,22,F,RW,Germany
+304,Jérôme Onguéné,€ 10.385,€ 540.000,Jun 30 2027,Eintracht Frankfurt,26,D,CB,Cameroon
+305,Thomas Dähne,€ 10.000,€ 520.000,Jun 30 2026,Holstein Kiel,30,K,GK,Germany
+306,Lucas Höler,€ 10.000,€ 520.000,Jun 30 2025,Freiburg,29,F,CF,Germany
+307,Jonas Föhrenbach,€ 10.000,€ 520.000,Jun 30 2027,Heidenheim,28,D,LB,Germany
+308,Benedict Hollerbach,€ 9.615,€ 500.000,Jun 30 2025,Union Berlin,23,F,CF,Germany
+309,Leopold Zingerle,€ 9.615,€ 500.000,Jun 30 2025,Leipzig,30,K,GK,Germany
+310,Lukas Daschner,€ 9.615,€ 500.000,Jun 30 2026,Bochum,25,F,AM,Germany
+311,Benedikt Gimber,€ 9.615,€ 500.000,Jun 30 2025,Heidenheim,27,D,CB,Germany
+312,Tim Breithaupt,€ 9.615,€ 500.000,Jun 30 2028,Augsburg,22,M,DM,Germany
+313,Grant-Leon Ranos,€ 9.615,€ 500.000,Jun 30 2027,Monchengladbach,20,F,CF,Armenia
+314,Florian Müller,€ 9.615,€ 500.000,Jun 30 2025,Freiburg,26,K,GK,Germany
+315,Dzenan Pejcinovic,€ 9.231,€ 480.000,Jun 30 2025,Wolfsburg,19,F,CF,Germany
+316,Faride Alidou,€ 9.231,€ 480.000,Jun 30 2026,Eintracht Frankfurt,22,F,LW,Germany
+317,Aurélio Buta,€ 9.231,€ 480.000,Jun 30 2026,Eintracht Frankfurt,27,D,RB,Portugal
+318,Manuel Gulde,€ 9.231,€ 480.000,Jun 30 2025,Freiburg,33,D,CB,Germany
+319,Jan Schöppner,€ 9.231,€ 480.000,Jun 30 2025,Heidenheim,25,M,CM,Germany
+320,Alexander Bernhardsson,€ 9.231,€ 480.000,Jun 30 2027,Holstein Kiel,25,F,RW,Sweden
+321,Danel Sinani,€ 9.231,€ 480.000,Jun 30 2025,St Pauli,27,F,RW,Luxembourg
+322,Erik Ahlstrand,€ 9.231,€ 480.000,Jun 30 2025,St Pauli,22,M,CM,Sweden
+323,Muhammed Damar,€ 9.231,€ 480.000,Jun 30 2026,Hoffenheim,20,F,AM,Germany
+324,Tobias Sippel,€ 9.038,€ 470.000,Jun 30 2025,Monchengladbach,36,K,GK,Germany
+325,Atakan Karazor,€ 9.038,€ 470.000,Jun 30 2028,Stuttgart,27,M,DM,Germany
+326,Patrick Erras,€ 9.038,€ 470.000,Jun 30 2026,Holstein Kiel,29,M,DM,Germany
+327,Armindo Sieb,€ 9.038,€ 470.000,Jun 30 2026,Mainz,21,F,SS,Germany
+328,Julián Malatini,€ 8.654,€ 450.000,Jun 30 2025,Werder Bremen,23,D,CB,Argentina
+329,Moritz-Broni Kwarteng,€ 8.654,€ 450.000,Jun 30 2027,Bochum,26,F,AM,Germany
+330,Shuto Machino,€ 8.077,€ 420.000,Jun 30 2027,Holstein Kiel,24,F,CF,Japan
+331,Tim Skarke,€ 8.077,€ 420.000,Jun 30 2025,Union Berlin,27,F,RW,Germany
+332,Paul Jaeckel,€ 8.077,€ 420.000,Jun 30 2025,Union Berlin,25,D,CB,Germany
+333,Sascha Burchert,€ 8.077,€ 420.000,Jun 30 2025,St Pauli,34,K,GK,Germany
+334,Norman Theuerkauf,€ 8.077,€ 420.000,Jun 30 2025,Heidenheim,37,D,LB,Germany
+335,Lewis Holtby,€ 8.077,€ 420.000,Jun 30 2025,Holstein Kiel,33,M,CM,Germany
+336,Lukas Ullrich,€ 7.692,€ 400.000,Jun 30 2027,Monchengladbach,20,D,LB,Germany
+337,Lukas Kübler,€ 7.500,€ 390.000,Jun 30 2025,Freiburg,31,D,RB,Germany
+338,Lasse Rieß,€ 7.308,€ 380.000,Jun 30 2027,Mainz,22,K,GK,Germany
+339,Manolis Saliakas,€ 7.308,€ 380.000,Jun 30 2025,St Pauli,27,D,RB,Greece
+340,Luca Philipp,€ 7.308,€ 380.000,Jun 30 2025,Hoffenheim,23,K,GK,Germany
+341,Noah Loosli,€ 7.115,€ 370.000,Jun 30 2026,Bochum,27,D,CB,Switzerland
+342,Jan Olschowsky,€ 6.923,€ 360.000,Jun 30 2027,Monchengladbach,22,K,GK,Germany
+343,Finn Ole Becker,€ 6.923,€ 360.000,Jun 30 2026,Hoffenheim,24,M,CM,Germany
+344,Romano Schmid,€ 6.923,€ 360.000,Jun 30 2025,Werder Bremen,24,F,AM,Austria
+345,Nelson Weiper,€ 6.923,€ 360.000,Jun 30 2025,Mainz,19,F,CF,Germany
+346,Kwasi Okyere Wriedt,€ 6.923,€ 360.000,Jun 30 2025,Holstein Kiel,29,F,CF,Ghana
+347,Yvandro Borges Sanches,€ 6.923,€ 360.000,Jun 30 2026,Monchengladbach,20,F,LW,Luxembourg
+348,Colin Kleine-Bekel,€ 6.923,€ 360.000,Jun 30 2025,Holstein Kiel,21,D,CB,Germany
+349,Daniel-Kofi Kyereh,€ 6.923,€ 360.000,Jun 30 2025,Freiburg,28,F,AM,Ghana
+350,Kauã Santos,€ 6.731,€ 350.000,Jun 30 2028,Eintracht Frankfurt,21,K,GK,Brazil
+351,Jens Grahl,€ 6.731,€ 350.000,Jun 30 2026,Eintracht Frankfurt,35,K,GK,Germany
+352,Isak Hansen-Aarøen,€ 6.731,€ 350.000,Jun 30 2027,Werder Bremen,19,F,AM,Norway
+353,Jonas Sterner,€ 6.538,€ 340.000,Jun 30 2026,Holstein Kiel,22,M,RM,Germany
+354,Diogo Leite,€ 6.538,€ 340.000,Jun 30 2025,Union Berlin,25,D,CB,Portugal
+355,Simon Walde,€ 6.538,€ 340.000,Jun 30 2026,Monchengladbach,19,D,RB,Germany
+356,Timon Weiner,€ 6.538,€ 340.000,Jun 30 2027,Holstein Kiel,25,K,GK,Germany
+357,Kiliann Sildillia,€ 6.154,€ 320.000,Jun 30 2026,Freiburg,22,D,RB,France
+358,Karol Mets,€ 5.962,€ 310.000,Jun 30 2025,St Pauli,31,D,CB,Estonia
+359,Wahid Faghir,€ 5.962,€ 310.000,Jun 30 2026,Stuttgart,20,F,CF,Denmark
+360,Niklas Klinger,€ 5.769,€ 300.000,Jun 30 2025,Wolfsburg,28,K,GK,Germany
+361,Marcel Wenig,€ 5.769,€ 300.000,Jun 30 2025,Eintracht Frankfurt,20,M,CM,Germany
+362,Maximilian Bauer,€ 5.769,€ 300.000,Jun 30 2027,Augsburg,24,D,CB,Germany
+363,Omar Traoré,€ 5.769,€ 300.000,Jun 30 2026,Heidenheim,26,D,RB,Germany
+364,Carl Johansson,€ 5.769,€ 300.000,Jun 30 2026,Holstein Kiel,30,D,CB,Sweden
+365,Elias Saad,€ 5.769,€ 300.000,Jun 30 2025,St Pauli,24,F,LW,Tunisia
+366,Tom Rothe,€ 5.769,€ 300.000,Jun 30 2026,Borussia Dortmund,19,D,LB,Germany
+367,Stefan Schimmer,€ 5.769,€ 300.000,Jun 30 2026,Heidenheim,30,F,CF,Germany
+368,Fisnik Asllani,€ 5.769,€ 300.000,Jun 30 2026,Hoffenheim,21,F,CF,Germany
+369,Jan-Niklas Beste,€ 5.577,€ 290.000,Jun 30 2025,Heidenheim,25,F,LW,Germany
+370,Igor Matanovic,€ 5.385,€ 280.000,Jun 30 2029,Eintracht Frankfurt,21,F,CF,Croatia
+371,David Colina,€ 5.385,€ 280.000,Jun 30 2027,Augsburg,23,D,LB,Croatia
+372,Nathaniel Brown,€ 5.385,€ 280.000,Jun 30 2029,Eintracht Frankfurt,21,D,LB,Germany
+373,Max Moerstedt,€ 5.385,€ 280.000,Jun 30 2027,Hoffenheim,18,F,CF,Germany
+374,Fabio Chiarodia,€ 5.385,€ 280.000,Jun 30 2027,Monchengladbach,19,D,CB,Italy
+375,Agon Elezi,€ 5.385,€ 280.000,Jun 30 2027,Bochum,23,M,DM,North Macedonia
+376,Andreas Albers,€ 5.192,€ 270.000,Jun 30 2025,St Pauli,34,F,CF,Denmark
+377,Paul Nebel,€ 5.192,€ 270.000,Jun 30 2027,Mainz,21,F,AM,Germany
+378,Tim Oermann,€ 5.192,€ 270.000,Jun 30 2026,Bochum,20,D,CB,Germany
+379,Vitus Eicher,€ 5.192,€ 270.000,Jun 30 2025,Heidenheim,33,K,GK,Germany
+380,Marko Ivezic,€ 5.192,€ 270.000,Jun 30 2027,Holstein Kiel,22,M,DM,Serbia
+381,Jackson Irvine,€ 5.000,€ 260.000,Jun 30 2025,St Pauli,31,M,CM,Australia
+382,Robert Gumny,€ 4.808,€ 250.000,Jun 30 2025,Augsburg,26,D,RB,Poland
+383,Julien Duranville,€ 4.615,€ 240.000,Jun 30 2025,Borussia Dortmund,18,F,RW,Belgium
+384,Nicolai Remberg,€ 4.615,€ 240.000,Jun 30 2026,Holstein Kiel,24,M,CM,Germany
+385,Gustavo Puerta,€ 4.615,€ 240.000,Jun 30 2028,Bayer Leverkusen,20,M,CM,Colombia
+386,Lasse Rosenboom,€ 4.615,€ 240.000,Jun 30 2026,Holstein Kiel,22,D,RB,Germany
+387,Marcel Lotka,€ 4.615,€ 240.000,Jun 30 2025,Borussia Dortmund,23,K,GK,Germany
+388,Daniel Batz,€ 4.231,€ 220.000,Jun 30 2025,Mainz,33,K,GK,Germany
+389,David Mamutovic,€ 3.846,€ 200.000,Jun 30 2025,Mainz,23,F,RW,Germany
+390,Adam Dzwigala,€ 3.654,€ 190.000,Jun 30 2025,St Pauli,28,D,CB,Poland
+391,Leonidas Stergiou,€ 3.654,€ 190.000,Jun 30 2028,Stuttgart,22,D,CB,Switzerland
+392,Finn Porath,€ 3.654,€ 190.000,Jun 30 2026,Holstein Kiel,27,F,AM,Germany
+393,Philipp Treu,€ 3.462,€ 180.000,Jun 30 2025,St Pauli,23,D,LB,Germany
+394,Adrian Beck,€ 3.462,€ 180.000,Jun 30 2025,Heidenheim,27,F,AM,Germany
+395,Ba-Muaka Simakala,€ 3.462,€ 180.000,Jun 30 2025,Holstein Kiel,27,F,LW,Germany
+396,Niclas Thiede,€ 3.462,€ 180.000,Jun 30 2027,Bochum,25,K,GK,Germany
+397,Sadik Fofana,€ 3.462,€ 180.000,Jun 30 2025,Bayer Leverkusen,21,D,CB,Togo
+398,Abdoulaye Kamara,€ 3.462,€ 180.000,Jun 30 2025,Borussia Dortmund,19,M,DM,France
+399,Ayman Aourir,€ 3.077,€ 160.000,Jun 30 2025,Bayer Leverkusen,19,F,AM,Morocco
+400,Jordy Makengo,€ 3.077,€ 160.000,Jun 30 2025,Freiburg,22,D,LB,France
+401,Davis Bautista,€ 3.077,€ 160.000,Jun 30 2028,Eintracht Frankfurt,19,D,CB,Ecuador
+402,Paul Tschernuth,€ 2.885,€ 150.000,Jun 30 2025,Heidenheim,22,K,GK,Austria
+403,Aljoscha Kemlein,€ 2.885,€ 150.000,Jun 30 2025,Union Berlin,19,M,DM,Germany
+404,Harpreet Ghotra,€ 2.885,€ 150.000,Jun 30 2025,Eintracht Frankfurt,21,M,CM,Germany
+405,Marcel Engelhardt,€ 2.885,€ 150.000,Jun 30 2025,Holstein Kiel,31,K,GK,Germany
+406,Nnamdi Collins,€ 2.885,€ 150.000,Jun 30 2028,Eintracht Frankfurt,20,D,CB,Germany
+407,Tarek Buchmann,€ 2.885,€ 150.000,Jun 30 2026,Bayern Munich,19,D,CB,Germany
+408,Mohamed Sankoh,€ 2.885,€ 150.000,Jun 30 2026,Stuttgart,20,F,CF,Netherlands
+409,Lukas Petkov,€ 2.885,€ 150.000,Jun 30 2026,Augsburg,23,F,AM,Bulgaria
+410,Tom Hülsmann,€ 2.885,€ 150.000,Jun 30 2026,Bayern Munich,20,K,GK,Germany
+411,Simon Simoni,€ 2.885,€ 150.000,Jun 30 2027,Eintracht Frankfurt,19,K,GK,Albania
+412,Thomas Keller,€ 2.885,€ 150.000,Jun 30 2025,Heidenheim,24,D,CB,Germany
+413,Leon Opitz,€ 2.692,€ 140.000,Jun 30 2025,Werder Bremen,19,M,LM,Germany
+414,Shio Fukuda,€ 2.692,€ 140.000,Jun 30 2026,Monchengladbach,20,F,CF,Japan
+415,Max Rosenfelder,€ 2.500,€ 130.000,Jun 30 2025,Freiburg,21,D,CB,Germany
+416,Connor Metcalfe,€ 2.500,€ 130.000,Jun 30 2025,St Pauli,24,F,AM,Australia
+417,Luka Janes,€ 2.308,€ 120.000,Jun 30 2025,Heidenheim,20,M,DM,Germany
+418,Noah Atubolu,€ 2.308,€ 120.000,Jun 30 2025,Freiburg,22,K,GK,Germany
+419,Frank Feller,€ 2.308,€ 120.000,Jun 30 2025,Heidenheim,20,K,GK,Germany
+420,Tim Siersleben,€ 2.308,€ 120.000,Jun 30 2026,Heidenheim,24,D,CB,Germany
+421,Kenneth Schmidt,€ 2.308,€ 120.000,Jun 30 2025,Freiburg,22,D,CB,Germany
+422,Maximilian Brüll,€ 2.308,€ 120.000,Jun 30 2025,Monchengladbach,21,K,GK,Germany
+423,Mohammed Tolba,€ 2.308,€ 120.000,Jun 30 2025,Bochum,19,D,CB,Germany
+424,Robert Wagner,€ 2.308,€ 120.000,Jun 30 2025,St Pauli,20,M,CM,Germany
+425,Bambasé Conté,€ 2.308,€ 120.000,Jun 30 2026,Hoffenheim,20,F,AM,Germany
+426,Lennard Maloney,€ 2.308,€ 120.000,Jun 30 2025,Heidenheim,24,M,DM,United States
+427,Arne Engels,€ 2.308,€ 120.000,Jun 30 2027,Augsburg,20,M,CM,Belgium
+428,Anthony Rouault,€ 2.308,€ 120.000,Jun 30 2027,Stuttgart,23,D,CB,France
+429,Seedy Jarju,€ 2.308,€ 120.000,Jun 30 2025,Heidenheim,19,D,LB,The Gambia
+430,Mehdi Loune,€ 2.308,€ 120.000,Jun 30 2025,Eintracht Frankfurt,20,M,CM,Germany
+431,Noah Weißhaupt,€ 2.308,€ 120.000,Jun 30 2025,Freiburg,22,F,LW,Germany
+432,Madi Monamay,€ 2.308,€ 120.000,Jun 30 2025,Bayer Leverkusen,18,D,CB,Belgium
+433,Tom Bischof,€ 2.308,€ 120.000,Jun 30 2025,Hoffenheim,19,F,AM,Germany
+434,Dennis Seimen,€ 2.308,€ 120.000,Jun 30 2027,Stuttgart,18,K,GK,Germany
+435,Moritz Broschinski,€ 2.308,€ 120.000,Jun 30 2026,Bochum,23,F,CF,Germany
+436,Mert Kömür,€ 2.308,€ 120.000,Jun 30 2027,Augsburg,18,F,AM,Germany
+437,Merlin Röhl,€ 2.308,€ 120.000,Jun 30 2025,Freiburg,21,M,CM,Germany
+438,Marco John,€ 2.308,€ 120.000,Jun 30 2025,Hoffenheim,22,D,LB,Germany
+439,Brajan Gruda,€ 2.308,€ 120.000,Jun 30 2026,Mainz,20,F,RW,Germany
+440,Scott Banks,€ 2.308,€ 120.000,Jun 30 2025,St Pauli,22,F,RW,Scotland
+441,Luca Günther,€ 2.115,€ 110.000,Jun 30 2025,St Pauli,22,D,RB,Germany
+442,Aurel Wagbe,€ 1.923,€ 100.000,Jun 30 2026,Holstein Kiel,20,M,LM,Germany
+443,Lars Ritzka,€ 1.731,€ 90.000,Jun 30 2025,St Pauli,26,D,LB,Germany
+444,Abdenego Nankishi,€ 1.731,€ 90.000,Jun 30 2025,Werder Bremen,21,F,LW,Germany
+445,Nico Carrera,€ 1.731,€ 90.000,Jun 30 2025,Holstein Kiel,22,D,CB,United States
+446,Marco Komenda,€ 1.731,€ 90.000,Jun 30 2026,Holstein Kiel,27,D,CB,Germany
+447,Kimberly Ezekwem,€ 1.731,€ 90.000,Jun 30 2025,Freiburg,23,D,LB,Germany
+448,Carlo Boukhalfa,€ 1.538,€ 80.000,Jun 30 2025,St Pauli,25,M,CM,Germany
+449,Sören Ahlers,€ 385,€ 20.000,Jun 30 2025,St Pauli,26,K,GK,Germany
+450,Krisztián Lisztes,,,Jun 30 2029,Eintracht Frankfurt,19,F,AM,Hungary
+451,Adam Aznou,,,Jun 30 2027,Bayern Munich,18,D,LB,Morocco
+452,Kristijan Jakic,,,Jun 30 2028,Augsburg,27,M,DM,Croatia
+453,Kofi Amoako,,,Jun 30 2026,Wolfsburg,19,M,DM,Germany
+454,Kjell Wätjen,,,Jun 30 2028,Borussia Dortmund,18,M,CM,Germany
+455,Kevin Stöger,,,Jun 30 2027,Monchengladbach,30,F,AM,Austria
+456,Keven Schlotterbeck,,,Jun 30 2027,Augsburg,27,D,CB,Germany
+457,Sirlord Conteh,,,Jun 30 2027,Heidenheim,27,F,RW,Germany
+458,Soumaïla Coulibaly,,,Jun 30 2026,Borussia Dortmund,20,D,CB,France
+459,Keke Topp,,,Jun 30 2028,Werder Bremen,20,F,CF,Germany
+460,Kamil Grabara,,,Jun 30 2025,Wolfsburg,25,K,GK,Poland
+461,Stefan Drljaca,,,Jun 30 2027,Stuttgart,25,K,GK,Germany
+462,Justin Diehl,,,Jun 30 2029,Stuttgart,19,F,LW,Germany
+463,Junior Awusi,,,Jun 30 2026,Eintracht Frankfurt,18,F,LW,Spain
+464,Noel Aséko Nkili,,,Jun 30 2026,Bayern Munich,18,M,DM,Germany
+465,Julian Chabot,,,Jun 30 2028,Stuttgart,26,D,CB,Germany
+466,Jordi Osei-Tutu,,,Jun 30 2025,Bochum,25,D,RB,England
+467,Joel Imasuen,,,Jun 30 2026,Werder Bremen,19,F,CF,United States
+468,Jeanuël Belocian,,,Jun 30 2029,Bayer Leverkusen,19,D,CB,France
+469,Jannik Huth,,,Jun 30 2025,Freiburg,30,K,GK,Germany
+470,Ivan Prtajin,,,Jun 30 2027,Union Berlin,28,F,CF,Croatia
+471,Iker Bravo,,,Jun 30 2025,Bayer Leverkusen,19,F,CF,Spain
+472,Ibrahima Sissoko,,,Jun 30 2027,Bochum,26,M,DM,Mali
+473,Hugo Siquet,,,Jun 30 2026,Freiburg,21,D,RB,Belgium
+474,Tim Drexler,,,Jun 30 2028,Hoffenheim,19,D,CB,Germany
+475,Tim Kleindienst,,,Jun 30 2028,Monchengladbach,28,F,CF,Germany
+476,Tim Köther,,,Jun 30 2025,Heidenheim,23,D,LB,Germany
+477,Hiroki Ito,,,Jun 30 2028,Bayern Munich,25,D,CB,Japan
+478,Henri Koudossou,,,Jun 30 2025,Augsburg,24,D,RB,Germany
+479,Gabriel Vidovic,,,Jun 30 2025,Bayern Munich,20,F,LW,Croatia
+480,Fabrice Hartmann,,,Jun 30 2025,Leipzig,23,F,RW,Germany
+481,Eren Dinkci,,,Jun 30 2025,Freiburg,22,F,RW,Germany
+482,Dikeni Salifou,,,Jun 30 2025,Werder Bremen,21,M,CM,Togo
+483,David Preu,,,Jun 30 2025,Union Berlin,19,F,LW,Germany
+484,Daniel Klein,,,Jun 30 2025,Augsburg,23,K,GK,Germany
+485,Christopher Negele,,,Jun 30 2025,Heidenheim,19,F,LW,Germany
+486,Charles Herrmann,,,Jun 30 2028,Monchengladbach,18,F,LW,Germany
+487,Can Uzun,,,Jun 30 2029,Eintracht Frankfurt,18,F,AM,Turkey
+488,Ben Voll,,,Jun 30 2025,St Pauli,23,K,GK,Germany
+489,Bence Dárdai,,,Jun 30 2025,Wolfsburg,18,F,AM,Germany
+490,Bartosz Bialek,,,Jun 30 2025,Wolfsburg,22,F,CF,Poland
+491,Assan Ouédraogo,,,Jun 30 2029,Leipzig,18,M,CM,Germany
+492,Yannic Stein,,,Jun 30 2025,Union Berlin,19,K,GK,Germany
+493,Yannik Keitel,,,Jun 30 2028,Stuttgart,24,M,DM,Germany
+494,Andu Kelati,,,Jun 30 2028,Holstein Kiel,21,F,LW,Germany
+495,Anas Alaoui,,,Jun 30 2026,Eintracht Frankfurt,18,F,CF,Morocco
+496,Aleix García,,,Jun 30 2029,Bayer Leverkusen,27,M,CM,Spain
+497,Patrick Drewes,,,Jun 30 2026,Bochum,31,K,GK,Germany
+498,Julian Niehues,,,Jun 30 2027,Heidenheim,23,M,DM,Germany
+499,Patrick Osterhage,,,Jun 30 2025,Freiburg,24,M,CM,Germany
+500,Noah Fenyö,,,Jun 30 2026,Eintracht Frankfurt,18,M,DM,Hungary
+501,Nikolas Veratschnig,,,Jun 30 2028,Mainz,21,D,RB,Austria
+502,Paul Grave,,,Jun 30 2025,Bochum,23,K,GK,Germany
+503,Niklas Jahn,,,Jun 30 2027,Bochum,19,M,DM,Germany
+504,Nick Woltemade,,,Jun 30 2028,Stuttgart,22,F,SS,Germany
+505,Nestory Irankunda,,,Jun 30 2028,Bayern Munich,18,F,RW,Australia
+506,Nediljko Labrovic,,,Jun 30 2029,Augsburg,24,K,GK,Croatia
+507,Muhammad Dahaba,,,Jun 30 2025,St Pauli,19,D,CB,Germany
+508,Phil Harres,,,Jun 30 2025,Holstein Kiel,22,F,CF,Germany
+509,Mio Backhaus,,,Jun 30 2025,Werder Bremen,20,K,GK,Germany
+510,Mikkel Kaufmann,,,Jun 30 2028,Heidenheim,23,F,CF,Denmark
+511,Philipp Sander,,,Jun 30 2028,Monchengladbach,26,M,CM,Germany
+512,Ramon Hendriks,,,Jun 30 2028,Stuttgart,22,D,CB,Netherlands
+513,Maximilian Breunig,,,Jun 30 2027,Heidenheim,23,F,CF,Germany
+514,Max Geschwill,,,Jun 30 2025,Holstein Kiel,22,D,CB,Germany
+515,Mats Pannewig,,,Jun 30 2025,Bochum,19,M,CM,Germany
+516,Mathias Honsak,,,Jun 30 2027,Heidenheim,27,F,LW,Austria
+517,Markus Kolke,,,Jun 30 2025,Werder Bremen,33,K,GK,Germany
+518,Marius Müller,,,Jun 30 2025,Wolfsburg,30,K,GK,Germany
+519,Marco Grüll,,,Jun 30 2025,Werder Bremen,25,F,LW,Austria
+520,Manuel Braun,,,Jun 30 2026,Wolfsburg,19,D,LB,Germany
+521,Magnus Knudsen,,,Jun 30 2025,Holstein Kiel,23,M,CM,Norway
+522,Maarten Vandevoordt,,,Jun 30 2029,Leipzig,22,K,GK,Belgium
+523,Lúkas Petersson,,,Jun 30 2027,Hoffenheim,20,K,GK,Iceland
+524,Lucas Laux,,,Jun 30 2025,Mainz,21,D,CB,Germany
+525,Luca Kerber,,,Jun 30 2027,Heidenheim,22,M,CM,Germany
+526,Lovro Zvonarek,,,Jun 30 2027,Bayern Munich,19,F,AM,Croatia
+527,Léo Scienza,,,Jun 30 2027,Heidenheim,25,F,LW,Brazil
+528,Samuel Bamba,,,Jun 30 2027,Bochum,20,F,RW,Germany
+529,Samuel Essende,,,Jun 30 2028,Augsburg,26,F,CF,Democratic Republic of the Congo
+530,Leopold Querfeld,,,Jun 30 2025,Union Berlin,20,D,CB,Austria
+531,Lennart Koerdt,,,Jun 30 2027,Bochum,19,F,AM,Germany
+532,Laszlo Benes,,,Jun 30 2025,Union Berlin,26,M,CM,Slovakia

@@ -61,11 +61,7 @@ def main():
     try:
         # Read Excel file
         data = pd.read_excel('Salarios-BL-2024.xlsx')
-        
-        # Print data head and shape
-        print(data.head())
-        print(data.shape)
-        
+
         # Ensure AGE is treated as a string if it is not numeric
         if not pd.api.types.is_numeric_dtype(data['AGE']):
             data['AGE'] = data['AGE'].astype(str)

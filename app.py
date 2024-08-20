@@ -47,10 +47,6 @@ def choose_plot(expenditure_club, expenditure_position, expenditure_nationality,
     expenditure_nationality (DataFrame): Expenditure data grouped by nationality.
     expenditure_age (DataFrame): Expenditure data grouped by age.
     """
-      
-
-
-
     if choice == options[0]:
         plot_expenditure(expenditure_club, 'CLUB', 'ANUAL SALARIES PER CLUB')
     elif choice == options[1]:
@@ -80,13 +76,7 @@ def main():
         expenditure_position = calculate_expenditure(data, 'POS SPECIFIC')
         expenditure_nationality = calculate_expenditure(data, 'NATIONALITY')
         expenditure_age = calculate_expenditure(data, 'AGE')
-        
-        # Print expenditure for each category
-        print(expenditure_club)
-        print(expenditure_position)
-        print(expenditure_nationality)
-        print(expenditure_age)
-        
+
         # Allow the user to choose which plot to display
         choose_plot(expenditure_club, expenditure_position, expenditure_nationality, expenditure_age)
     

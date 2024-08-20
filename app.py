@@ -5,11 +5,6 @@ import streamlit as st
 st.set_page_config(layout="wide")
 st.title("BUNDESLIGA SALARIES EXPEDITURE ANALYSIS")
 
-#choice = input("Enter the number of your choice: ")
-# make choice a dropdown as sidebar in streamlit page
-options=["1. ANUAL SALARIES PER CLUB", "2. ANUAL SALARIES PER POSITION", "3. ANUAL SALARIES PER NATIONALITY", "4. ANUAL SALARIES PER AGE"]
-choice = st.sidebar.selectbox("EXPENDITURE TYPE:", options=options)
-
 def calculate_expenditure(data, column):
     """
     Calculate the total salary expenditure for each category.
@@ -47,6 +42,10 @@ def choose_plot(expenditure_club, expenditure_position, expenditure_nationality,
     expenditure_nationality (DataFrame): Expenditure data grouped by nationality.
     expenditure_age (DataFrame): Expenditure data grouped by age.
     """
+    # make choice a dropdown as sidebar in streamlit page
+    options=["1. ANUAL SALARIES PER CLUB", "2. ANUAL SALARIES PER POSITION", "3. ANUAL SALARIES PER NATIONALITY", "4. ANUAL SALARIES PER AGE"]
+    choice = st.sidebar.selectbox("EXPENDITURE TYPE:", options=options)
+
     if choice == options[0]:
         plot_expenditure(expenditure_club, 'CLUB', 'ANUAL SALARIES PER CLUB')
     elif choice == options[1]:

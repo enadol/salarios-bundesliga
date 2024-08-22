@@ -29,7 +29,7 @@ def plot_expenditure(expenditure, column, title):
     fig = px.bar(expenditure, x=column, y='GROSS P/Y', color=column, title=title)
     fig.update_layout(width=1200, height=900, paper_bgcolor='oldlace')
     fig.update_layout(title="<span style='font-size:22px;color:steelblue;'><b>SALARIES EXPENDITURE ANALYSIS</b></span>")
-    fig.add_annotation(dict(font=dict(color="steelblue", size=15), x=0.90, y=-0.15, showarrow=False, text="Data Source: Capology.com", xref="paper", yref="paper", align="center"))
+    fig.add_annotation(dict(font=dict(color="steelblue", size=15), x=0.90, y=-0.15, showarrow=False, text="Data: Capology.com", xref="paper", yref="paper", align="center"))
     st.plotly_chart(fig)
 
 def choose_plot(expenditure_club, expenditure_position, expenditure_nationality, expenditure_age):

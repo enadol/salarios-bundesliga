@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 st.set_page_config(layout="wide")
-st.title("BUNDESLIGA SALARIES EXPENDITURE ANALYSIS")
+st.title("BUNDESLIGA SEASON 2024/2025")
 
 def calculate_expenditure(data, column):
     """
@@ -26,7 +26,10 @@ def plot_expenditure(expenditure, column, title):
     title (str): Title of the plot.
     """
     # plot with streamlit, color by CLUB
-    fig = px.bar(expenditure, x=column, y='GROSS P/Y', color=column, title=title, height=600, width=1000)
+    fig = px.bar(expenditure, x=column, y='GROSS P/Y', color=column, title=title)
+    fig.update_layout(width=1200, height=900, paper_bgcolor='oldlace')
+    fig.update_layout(title="<span style='font-size:22px;color:steelblue;'><b>SALARIES EXPENDITURE ANALYSIS</b></span>")
+    fig.add_annotation(dict(font=dict(color="steelblue", size=15), x=0.90, y=-0.15, showarrow=False, text="Data Source: Capology.com", xref="paper", yref="paper", align="center"))
     st.plotly_chart(fig)
 
 def choose_plot(expenditure_club, expenditure_position, expenditure_nationality, expenditure_age):
